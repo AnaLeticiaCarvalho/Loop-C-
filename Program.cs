@@ -1,4 +1,7 @@
-﻿string option;
+﻿
+// Meni com while
+
+string option;
 
 while(true)
 {
