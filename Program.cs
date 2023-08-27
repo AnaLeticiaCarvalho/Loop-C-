@@ -1,5 +1,5 @@
 ﻿
-// Meni com while
+// Menu com while
 
 string option;
 
